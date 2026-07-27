@@ -2,16 +2,16 @@
 
 # Hi, I'm Abhishek Raj 👋
 
-**Pursuing B.Tech from Netaji Subhas University of Technology (NSUT)**
-Currently in 4th Year
+**🎓 B.Tech | Netaji Subhas University of Technology (NSUT)**
+Currently in my final year.
 
-*Building scalable backend systems, AI-powered applications, and solving challenging DSA problems.*
+*Backend-focused engineer building reliable APIs, full-stack applications, and clean software architecture — with a strong foundation in data structures and algorithms.*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Abhishek-Raj)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=8A63F5)](https://github.com/i-abhishek-04)
-[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=8A63F5)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8A63F5)](https://github.com/i-abhishek-04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/Abhishek-Raj)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=8A63F5)](mailto:your.email@example.com)
 
 </div>
 
@@ -19,11 +19,11 @@ Currently in 4th Year
 
 ## About Me
 
-- 🎓 B.Tech at **NSUT** (Netaji Subhas University of Technology)
-- 💻 Interested in **Backend Development**
-- ⚡ Learning **FastAPI**, **React**, **System Design**, and **DSA**
-- 🚀 Building production-ready **full-stack projects**
-- 🌱 Always learning new technologies
+- 💻 Focused on **Backend Development** and building production-ready applications
+- ⚡ Working with **FastAPI**, **React**, **PostgreSQL**, and **Docker**
+- ☕ Comfortable in **Java** and **Python**
+- 🧩 Practicing **Data Structures & Algorithms** consistently
+- 🌱 Currently deepening my understanding of **System Design**
 
 <br/>
 
@@ -38,13 +38,20 @@ Currently in 4th Year
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
-**Frameworks & Databases**
+**Backend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00A98F)
+![Java](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=6DB33F)
+
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Database**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
-**Tools & Platforms**
+**Dev Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
@@ -60,12 +67,12 @@ Currently in 4th Year
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=i-abhishek-04&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=8A63F5&icon_color=58A6FF&text_color=C9D1D9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=i-abhishek-04&theme=dark&hide_border=true&background=0D1117&ring=8A63F5&fire=58A6FF&currStreakLabel=8A63F5"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=i-abhishek-04&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=8A63F5&icon_color=58A6FF&text_color=C9D1D9"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=i-abhishek-04&theme=dark&hide_border=true&background=0D1117&ring=8A63F5&fire=58A6FF&currStreakLabel=8A63F5"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-abhishek-04&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8A63F5&text_color=C9D1D9"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=i-abhishek-04&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8A63F5&text_color=C9D1D9"/>
 
 </div>
 
@@ -81,13 +88,19 @@ Currently in 4th Year
 
 <br/>
 
-## Contribution Activity
+## Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=i-abhishek-04&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=8A63F5&point=C9D1D9"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/i-abhishek-04/i-abhishek-04/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/i-abhishek-04/i-abhishek-04/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/i-abhishek-04/i-abhishek-04/output/github-snake.svg" />
+</picture>
 
 </div>
+
+> This section requires a one-time GitHub Action setup (workflow file included below). Until the workflow runs once, this image will not render — see setup instructions.
 
 <br/>
 
@@ -97,12 +110,12 @@ Currently in 4th Year
 
 ### 🔹 OmniSocial
 
-**An AI-powered social media analytics platform** that unifies insights from multiple social platforms with real-time analytics, AI-generated recommendations, and an intuitive dashboard.
+**An AI-powered social media analytics platform** that unifies insights from multiple social platforms, featuring real-time analytics, AI-generated recommendations, and an intuitive dashboard.
 
-![React](https://img.shields.io/badge/Frontend-React_%2B_Vite-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/Frontend-React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/Backend-FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00A98F)
-![JWT](https://img.shields.io/badge/Auth-JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=8A63F5)
-![SQLite](https://img.shields.io/badge/Database-SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=58A6FF)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Docker](https://img.shields.io/badge/Deployment-Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
 
 **[View Repository →](https://github.com/i-abhishek-04/OmniSocial-AI)**
 
@@ -110,16 +123,12 @@ Currently in 4th Year
 
 <br/>
 
-## Connect With Me
+## Contact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Abhishek-Raj)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=8A63F5)](https://github.com/i-abhishek-04)
-[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=8A63F5)](mailto:your.email@example.com)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=i-abhishek-04&style=for-the-badge&color=8A63F5&label=PROFILE+VIEWS"/>
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8A63F5)](https://github.com/i-abhishek-04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/Abhishek-Raj)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=8A63F5)](mailto:your.email@example.com)
 
 </div>
