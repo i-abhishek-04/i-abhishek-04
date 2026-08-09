@@ -69,7 +69,6 @@ class Abhishek:
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00F5FF"/>
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pyodide_WASM-3776AB?style=for-the-badge&logo=webassembly&logoColor=654FF0"/>
 
 <br/>
 
@@ -77,7 +76,6 @@ class Abhishek:
 
 <img src="https://img.shields.io/badge/PostgreSQL-141414?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=00F5FF"/>
 <img src="https://img.shields.io/badge/CRDT_Engine-302b63?style=for-the-badge&logo=git&logoColor=00F5FF"/>
 
 <br/>
@@ -87,7 +85,6 @@ class Abhishek:
 <img src="https://img.shields.io/badge/Google_Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=00F5FF"/>
 <img src="https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-141414?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-141414?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
 
 </div>
