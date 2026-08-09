@@ -28,7 +28,7 @@ class Abhishek:
         self.name = "Abhishek Raj"
         self.role = "Backend Developer & Full-Stack Engineer"
         self.stack = ["Python", "FastAPI", "Java", "React", "WebSockets", "SQL"]
-        self.featured_projects = ["SyncPad (CRDT Editor)", "OmniSocial AI", "Terminal Portfolio"]
+        self.featured_projects = ["SyncPad (CRDT Editor)", "OmniSocial-AI", "LangChain Enterprise AI"]
         self.focus = "Building scalable, high-performance & AI-driven software"
 
     def say_hi(self):
@@ -37,7 +37,7 @@ class Abhishek:
 
 - ⚡ Specializing in **Backend Architecture**, **REST APIs**, and **Real-Time Systems** (WebSockets / CRDTs).
 - 🚀 Building **AI-powered applications** end-to-end with **FastAPI**, **Python**, **Java**, and **React**.
-- 🤖 Integrating **LLMs & GenAI APIs** (Google Gemini, OpenAI) into production workflows.
+- 🤖 Integrating **LLMs & GenAI APIs** (Google Gemini, OpenAI, LangChain) into production workflows.
 - 📊 Proficient in database modeling across **PostgreSQL**, **MySQL**, and **SQLAlchemy/Pydantic**.
 - 🛠️ Dedicated to **Clean Code**, modular architecture, and low-latency client-server interactions.
 - 🎯 Actively open for **Software Engineering (SWE) & Backend Roles**.
@@ -67,6 +67,7 @@ class Abhishek:
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=00F5FF"/>
 <img src="https://img.shields.io/badge/React-141414?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00F5FF"/>
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pyodide_WASM-3776AB?style=for-the-badge&logo=webassembly&logoColor=654FF0"/>
 
@@ -105,6 +106,15 @@ class Abhishek:
 
 > **A real-time collaborative code editor** featuring custom string CRDT (RGA sequence synchronization), WebSockets, live presence avatars, remote carets, and an in-browser WASM code execution engine.
 
+<a href="https://sync-pad-rho.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-sync--pad--rho.vercel.app-00F5FF?style=for-the-badge"/>
+</a>
+<a href="https://github.com/i-abhishek-04/SyncPad" target="_blank">
+  <img src="https://img.shields.io/badge/⭐_GitHub_Repo-SyncPad-141414?style=for-the-badge&logo=github"/>
+</a>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Frontend-React_%2B_Vite-00F5FF?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/Backend-FastAPI-005571?style=flat-square&logo=fastapi"/>
 <img src="https://img.shields.io/badge/RealTime-WebSockets-010101?style=flat-square&logo=socketdotio"/>
@@ -119,9 +129,18 @@ class Abhishek:
 
 ---
 
-### 🤖 2. [OmniSocial AI — AI-Powered Social Media Management Platform](https://github.com/i-abhishek-04/OmniSocial-AI)
+### 🤖 2. [OmniSocial-AI — AI-Powered Social Media Workspace](https://github.com/i-abhishek-04/OmniSocial-AI)
 
-> **An all-in-one AI social media workspace** for scheduling content, generating posts via Gemini LLM, tracking live analytics, and automating queues across multiple platforms.
+> **An all-in-one AI social media dashboard** for content scheduling, Gemini LLM post generation, analytics tracking, and automated queue publishing.
+
+<a href="https://omnisocial-ai.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-omnisocial--ai.vercel.app-00F5FF?style=for-the-badge"/>
+</a>
+<a href="https://github.com/i-abhishek-04/OmniSocial-AI" target="_blank">
+  <img src="https://img.shields.io/badge/⭐_GitHub_Repo-OmniSocial--AI-141414?style=for-the-badge&logo=github"/>
+</a>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Backend-FastAPI-005571?style=flat-square&logo=fastapi"/>
 <img src="https://img.shields.io/badge/Frontend-React-141414?style=flat-square&logo=react"/>
@@ -130,25 +149,34 @@ class Abhishek:
 <img src="https://img.shields.io/badge/Auth-OAuth2_%2B_JWT-141414?style=flat-square&logo=jsonwebtokens"/>
 
 **Key Features:**
-- 🤖 **AI Post Generator**: Instant AI text & caption synthesis tailored per social network.
-- 🗓️ **Automated Queue Scheduler**: Background worker queue powered by APScheduler for automated posting.
+- 🤖 **AI Post Synthesis**: Instant AI text & caption synthesis tailored per social network.
+- 🗓️ **Automated Queue Scheduler**: Background worker queue powered by APScheduler for automated publishing.
 - 📊 **Unified Analytics**: Unified performance dashboard across YouTube, Instagram, and connected channels.
 - 🔐 **Secure Multi-Tenant Auth**: OAuth2 integration with encrypted token storage.
 
 ---
 
-### 💻 3. [Interactive Developer Portfolio & Terminal Hub](https://github.com/i-abhishek-04/abhishek-portfolio)
+### 🧠 3. [LangChain Enterprise AI Platform](https://github.com/i-abhishek-04/langchain-enterprise-ai-platform)
 
-> **A sleek developer portfolio** designed with dark mode glassmorphism, terminal command interactions, dynamic stats visualizers, and project showcases.
+> **An enterprise AI platform** for agentic LLM workflows, multi-document RAG querying, and automated AI task orchestration.
 
-<img src="https://img.shields.io/badge/Frontend-React_19-61DAFB?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/Build-Vite-646CFF?style=flat-square&logo=vite"/>
-<img src="https://img.shields.io/badge/Styling-Custom_CSS_Grid-00F5FF?style=flat-square&logo=css3"/>
+<a href="https://langchain-enterprise-ai-platform.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-langchain--enterprise-00F5FF?style=for-the-badge"/>
+</a>
+<a href="https://github.com/i-abhishek-04/langchain-enterprise-ai-platform" target="_blank">
+  <img src="https://img.shields.io/badge/⭐_GitHub_Repo-langchain--enterprise-141414?style=for-the-badge&logo=github"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI-LangChain-1C3C3C?style=flat-square&logo=langchain"/>
+<img src="https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel"/>
 
 **Key Features:**
-- 🖥️ **Interactive Terminal**: Run custom command lines (`help`, `projects`, `stats`, `contact`, `clear`).
-- 🎨 **Glassmorphism Aesthetic**: Vibrant dark mode UI with micro-animations and glowing accent tokens.
-- 📱 **Fully Responsive**: Optimised layout for desktop, tablet, and mobile displays.
+- 🔗 **LangChain Workflows**: Multi-step AI agent chains and prompt pipeline management.
+- 📄 **Document RAG System**: Vector store query engine for context-aware AI answers.
+- ⚡ **Enterprise Dashboard**: Production monitoring and low-latency API response streaming.
 
 </td>
 </tr>
@@ -180,8 +208,8 @@ class Abhishek:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=i-abhishek-04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8E75B2&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-abhishek-04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=i-abhishek-04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8E75B2&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=i-abhishek-04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9"/>
 
 <br/><br/>
 
@@ -195,11 +223,13 @@ class Abhishek:
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00F5FF&height=2&section=header"/>
 
-## 🏆 Trophies & Milestones
+## 📊 Repository Summary & Language Insights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=i-abhishek-04&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i-abhishek-04&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i-abhishek-04&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i-abhishek-04&theme=tokyonight"/>
 
 </div>
 
