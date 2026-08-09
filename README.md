@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Abhishek%20Raj&fontSize=60&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Open%20Source&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Abhishek%20Raj&fontSize=60&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Full-Stack%20Systems%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Abhishek+%F0%9F%91%8B;Backend+Developer;Building+with+Python+%2B+FastAPI+%2B+React;Turning+Ideas+Into+Intelligent+Software;Currently+Building+%40+OmniSocial+AI+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Abhishek+%F0%9F%91%8B;Backend+%2B+Full-Stack+Systems+Engineer;Building+Real-Time+CRDTs+%2B+AI-Powered+Platforms;Python+%E2%80%A2+FastAPI+%E2%80%A2+Java+%E2%80%A2+React+%E2%80%A2+WebSockets;Currently+Building+%40+SyncPad+%26+OmniSocial+AI+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -26,29 +26,27 @@
 class Abhishek:
     def __init__(self):
         self.name = "Abhishek Raj"
-        self.role = "Backend Developer"
-        self.stack = ["Python", "Java", "FastAPI", "React"]
-        self.currently_building = "OmniSocial AI 🚀"
-        self.focus = "Scalable, intelligent software"
+        self.role = "Backend Developer & Full-Stack Engineer"
+        self.stack = ["Python", "FastAPI", "Java", "React", "WebSockets", "SQL"]
+        self.featured_projects = ["SyncPad (CRDT Editor)", "OmniSocial AI", "Terminal Portfolio"]
+        self.focus = "Building scalable, high-performance & AI-driven software"
 
     def say_hi(self):
-        print("Thanks for stopping by — let's build something great.")
+        print("Thanks for stopping by — let's build something extraordinary.")
 ```
 
-- 🚀 Building **AI-powered applications** end-to-end
-- 💻 Deep focus on **Backend Development** — FastAPI, Spring Boot, REST APIs
-- 🤖 Actively exploring **Artificial Intelligence** & LLM integrations
-- 📊 Comfortable across **Database Systems** — SQL, PostgreSQL, MySQL
-- ☁️ Designing clean, well-structured **REST APIs**
-- ⚡ Obsessed with **Clean Architecture** & maintainable code
-- 🌱 Currently learning **scalable software systems design**
-- 🎯 Preparing for **Software Engineering roles**
+- ⚡ Specializing in **Backend Architecture**, **REST APIs**, and **Real-Time Systems** (WebSockets / CRDTs).
+- 🚀 Building **AI-powered applications** end-to-end with **FastAPI**, **Python**, **Java**, and **React**.
+- 🤖 Integrating **LLMs & GenAI APIs** (Google Gemini, OpenAI) into production workflows.
+- 📊 Proficient in database modeling across **PostgreSQL**, **MySQL**, and **SQLAlchemy/Pydantic**.
+- 🛠️ Dedicated to **Clean Code**, modular architecture, and low-latency client-server interactions.
+- 🎯 Actively open for **Software Engineering (SWE) & Backend Roles**.
 
 <br clear="right"/>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00F5FF&height=2&section=header"/>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
@@ -58,34 +56,44 @@ class Abhishek:
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/SQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 
-**Frameworks**
+<br/>
+
+**Frameworks & Libraries**
 
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=00F5FF"/>
 <img src="https://img.shields.io/badge/React-141414?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pyodide_WASM-3776AB?style=for-the-badge&logo=webassembly&logoColor=654FF0"/>
 
-**Tools & Platforms**
+<br/>
 
+**Databases & Real-Time**
+
+<img src="https://img.shields.io/badge/PostgreSQL-141414?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/CRDT_Engine-302b63?style=for-the-badge&logo=git&logoColor=00F5FF"/>
+
+<br/>
+
+**AI & Tools**
+
+<img src="https://img.shields.io/badge/Google_Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=00F5FF"/>
 <img src="https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-141414?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-141414?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-141414?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-
-**AI**
-
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/REST_APIs-141414?style=for-the-badge&logo=fastapi&logoColor=00F5FF"/>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00F5FF&height=2&section=header"/>
 
-## 🚀 Featured Project
+## 🚀 Featured Working Projects
 
 <div align="center">
 
@@ -93,25 +101,54 @@ class Abhishek:
 <tr>
 <td width="100%">
 
-### 🌐 [OmniSocial AI](https://github.com/i-abhishek-04/OmniSocial-AI)
+### ⚡ 1. [SyncPad — Real-Time Collaborative CRDT Code Editor](https://github.com/i-abhishek-04/SyncPad)
 
-**An AI-powered unified social media dashboard** that integrates multiple social platforms into a single intelligent workspace — built as a full-stack SaaS application.
+> **A real-time collaborative code editor** featuring custom string CRDT (RGA sequence synchronization), WebSockets, live presence avatars, remote carets, and an in-browser WASM code execution engine.
 
 <img src="https://img.shields.io/badge/Frontend-React_%2B_Vite-00F5FF?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/Backend-FastAPI-005571?style=flat-square&logo=fastapi"/>
-<img src="https://img.shields.io/badge/Auth-JWT-302b63?style=flat-square&logo=jsonwebtokens"/>
-<img src="https://img.shields.io/badge/DB-SQLite-141414?style=flat-square&logo=sqlite"/>
+<img src="https://img.shields.io/badge/RealTime-WebSockets-010101?style=flat-square&logo=socketdotio"/>
+<img src="https://img.shields.io/badge/Engine-Pyodide_WASM-3776AB?style=flat-square&logo=webassembly"/>
+<img src="https://img.shields.io/badge/Algorithm-CRDT_RGA-302b63?style=flat-square"/>
 
-**✨ Features**
-| Feature | Description |
-|---|---|
-| 🤖 AI Insights | Smart, AI-generated analytics on social performance |
-| 📊 Analytics | Unified dashboard across connected platforms |
-| 🗓️ Content Scheduling | Plan and schedule posts in advance |
-| 🔗 Cross-Platform Posting | Post to multiple platforms from one place |
-| 🧩 API Integrations | Live integration starting with YouTube Data API v3 |
+**Key Features:**
+- 🔄 **Conflict-Free Real-Time Sync**: Custom state-based string CRDT guarantees eventual consistency without server locking.
+- 📟 **IDE Execution Console**: Evaluates Python (Pyodide WASM), JavaScript (sandbox error line parsing), Java (JDK compiler simulation), and C++ natively in the browser.
+- 👥 **Collaborative Presence**: Multi-user position cursors, active presence chips, and soft user join audio chimes.
+- 🔬 **CRDT Memory Inspector**: Visualizes memory nodes, tombstone deletions, and total merged ops in real-time.
 
-> 🔄 More platforms are continuously being integrated as OAuth apps are registered.
+---
+
+### 🤖 2. [OmniSocial AI — AI-Powered Social Media Management Platform](https://github.com/i-abhishek-04/OmniSocial-AI)
+
+> **An all-in-one AI social media workspace** for scheduling content, generating posts via Gemini LLM, tracking live analytics, and automating queues across multiple platforms.
+
+<img src="https://img.shields.io/badge/Backend-FastAPI-005571?style=flat-square&logo=fastapi"/>
+<img src="https://img.shields.io/badge/Frontend-React-141414?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/AI-Google_Gemini-8E75B2?style=flat-square&logo=googlegemini"/>
+<img src="https://img.shields.io/badge/Scheduler-APScheduler-302b63?style=flat-square"/>
+<img src="https://img.shields.io/badge/Auth-OAuth2_%2B_JWT-141414?style=flat-square&logo=jsonwebtokens"/>
+
+**Key Features:**
+- 🤖 **AI Post Generator**: Instant AI text & caption synthesis tailored per social network.
+- 🗓️ **Automated Queue Scheduler**: Background worker queue powered by APScheduler for automated posting.
+- 📊 **Unified Analytics**: Unified performance dashboard across YouTube, Instagram, and connected channels.
+- 🔐 **Secure Multi-Tenant Auth**: OAuth2 integration with encrypted token storage.
+
+---
+
+### 💻 3. [Interactive Developer Portfolio & Terminal Hub](https://github.com/i-abhishek-04/abhishek-portfolio)
+
+> **A sleek developer portfolio** designed with dark mode glassmorphism, terminal command interactions, dynamic stats visualizers, and project showcases.
+
+<img src="https://img.shields.io/badge/Frontend-React_19-61DAFB?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Build-Vite-646CFF?style=flat-square&logo=vite"/>
+<img src="https://img.shields.io/badge/Styling-Custom_CSS_Grid-00F5FF?style=flat-square&logo=css3"/>
+
+**Key Features:**
+- 🖥️ **Interactive Terminal**: Run custom command lines (`help`, `projects`, `stats`, `contact`, `clear`).
+- 🎨 **Glassmorphism Aesthetic**: Vibrant dark mode UI with micro-animations and glowing accent tokens.
+- 📱 **Fully Responsive**: Optimised layout for desktop, tablet, and mobile displays.
 
 </td>
 </tr>
@@ -121,14 +158,32 @@ class Abhishek:
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00F5FF&height=2&section=header"/>
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake Game
+
+<div align="center">
+
+> *Watch the snake eat my daily contributions and commits!* 🎮
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/i-abhishek-04/i-abhishek-04/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/i-abhishek-04/i-abhishek-04/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/i-abhishek-04/i-abhishek-04/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F5FF&height=2&section=header"/>
+
+## 📊 GitHub Analytics & Streaks
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=i-abhishek-04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8E75B2&text_color=c9d1d9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-abhishek-04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=i-abhishek-04&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=8E75B2&currStreakLabel=00F5FF"/>
 
@@ -140,7 +195,7 @@ class Abhishek:
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00F5FF&height=2&section=header"/>
 
-## 🏆 Trophies
+## 🏆 Trophies & Milestones
 
 <div align="center">
 
@@ -173,7 +228,7 @@ class Abhishek:
 
 <div align="center">
 
-### 💭 "Turning ideas into intelligent software."
+### 💭 *"Turning complex engineering ideas into intelligent software."*
 
 <br/>
 
