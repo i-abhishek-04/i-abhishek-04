@@ -204,37 +204,6 @@ class Abhishek:
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00F5FF&height=2&section=header"/>
 
-## 📊 GitHub Analytics & Streaks
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=i-abhishek-04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8E75B2&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=i-abhishek-04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=i-abhishek-04&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=8E75B2&currStreakLabel=00F5FF"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=i-abhishek-04&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F5FF&line=8E75B2&point=ffffff"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F5FF&height=2&section=header"/>
-
-## 📊 Repository Summary & Language Insights
-
-<div align="center">
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i-abhishek-04&theme=tokyonight"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i-abhishek-04&theme=tokyonight"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i-abhishek-04&theme=tokyonight"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F5FF&height=2&section=header"/>
-
 ## 🤝 Connect With Me
 
 <div align="center">
